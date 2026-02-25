@@ -1,10 +1,16 @@
 🌦️ Weather App (No API Key)
+
+
 Project Description
+
+
 This is a simple Weather Application built using HTML, CSS, and JavaScript. The app fetches real-time weather data using a public REST API that does not require any API key.
 
 Users can enter a city name and view the current temperature and wind speed.
 
 Features
+
+
 Search weather by city name
 
 Displays:
@@ -20,6 +26,8 @@ Beginner-friendly and lightweight
 No backend required
 
 Technologies Used
+
+
 HTML – Structure of the app
 
 CSS – Styling and layout
@@ -29,15 +37,21 @@ JavaScript – Logic and API calls
 REST API – Fetching weather data
 
 How to Run the Project
+
+
 Follow these steps to run the Weather App locally:
 
 Clone the Repository
+
+
 Open your terminal/command prompt and run:
 
-git clone https://github.com/NEIL-DANIEL-A/Weather-app-API-project.git
+git clone https://github.com/SANTHOSHKUMAR2009/Weather-app-API-project.git
 Alternatively, you can click the Code → Download ZIP button on GitHub and unzip the folder.
 
 Navigate Into the Project Folder
+
+
 Change directory to the project folder:
 
 cd Weather-app-API-project
